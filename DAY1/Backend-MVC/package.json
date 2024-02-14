@@ -1,0 +1,15 @@
+{
+  "name": "Backend-MVC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "vivek",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.2"
+  }
+}

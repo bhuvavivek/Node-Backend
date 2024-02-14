@@ -1,0 +1,14 @@
+{
+  "name": "Basic-Of-Node-Express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "vivek",
+  "scripts": {
+    "start":"node app.js",
+    "dev":"nodemon app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
